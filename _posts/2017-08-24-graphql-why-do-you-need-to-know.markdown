@@ -4,7 +4,7 @@ title:      "Why do you need to know about GraphQL"
 subtitle:   "because it does make sense"
 date:       2017-08-24 12:00:00
 author:     "HK"
-header-img: "img/post-bg-01.jpg"
+header-img: ""
 ---
 
 <p>There are several tutorials already available on this topic by several great people. My effort in writing this post is to provide some information on the fact that there are reasons as to why one has to look in to GraphQL.</p>
